@@ -22,7 +22,8 @@ To write a python program to find the rank of a matrix
 
 
 ## Output:
-<img width="943" height="347" alt="image" src="https://github.com/user-attachments/assets/9748cdfa-6492-4312-8d2a-9caced62f6fa" />
+<img width="808" height="792" alt="image" src="https://github.com/user-attachments/assets/68f680be-a410-4dd4-a1f9-d107babc9ba4" />
+
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
